@@ -1,0 +1,934 @@
+[
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 1,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0061957933",
+          "isbn13": "9780061957932"
+        },
+        {
+          "isbn10": "0062300156",
+          "isbn13": "9780062300157"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE UNDEAD POOL",
+          "description": "The witch Rachel Morgan must prevent all-out supernatural war; the 12th book in the Hollows series.",
+          "contributor": "by Kim Harrison",
+          "author": "Kim Harrison",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "HarperVoyager",
+          "primary_isbn13": "9780061957932",
+          "primary_isbn10": "0061957933",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780062300157.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 2,
+      "rank_last_week": 3,
+      "weeks_on_list": 19,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0316055433",
+          "isbn13": "9780316055437"
+        },
+        {
+          "isbn10": "0316239879",
+          "isbn13": "9780316239875"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE GOLDFINCH",
+          "description": "\u00a0A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+          "contributor": "by Donna Tartt",
+          "author": "Donna Tartt",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316055437",
+          "primary_isbn10": "0316055433",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780316055437.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 3,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0345543084",
+          "isbn13": "9780345543080"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE CHASE",
+          "description": "Nicolas Fox (a handsome con man) and Kate O\u2019Hare (an F.B.I. agent) team up to steal back a Chinese artifact taken from the Smithsonian.",
+          "contributor": "by Janet Evanovich and Lee Goldberg",
+          "author": "Janet Evanovich and Lee Goldberg",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Bantam",
+          "primary_isbn13": "9780345543080",
+          "primary_isbn10": "0345543084",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780345543080.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 4,
+      "rank_last_week": 2,
+      "weeks_on_list": 3,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0316211125",
+          "isbn13": "9780316211123"
+        },
+        {
+          "isbn10": "0316211095",
+          "isbn13": "9780316211093"
+        },
+        {
+          "isbn10": "0316211117",
+          "isbn13": "9780316211116"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "PRIVATE L.A.",
+          "description": "Jack Morgan and Justine Smith search for a celebrity couple who disappear from their luxurious ranch.",
+          "contributor": "by James Patterson and Mark Sullivan",
+          "author": "James Patterson and Mark Sullivan",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316211123",
+          "primary_isbn10": "0316211125",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780316211123.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 5,
+      "rank_last_week": 1,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "039916443X",
+          "isbn13": "9780399164439"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "CONCEALED IN DEATH",
+          "description": "Lt. Eve Dallas is on the case when the demolition of a building that once sheltered troubled teenagers reveals skeletons hidden in the walls; by Nora Roberts, writing pseudonymously. \u00a0",
+          "contributor": "by J. D. Robb",
+          "author": "J D Robb",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Putnam",
+          "primary_isbn13": "9780399164439",
+          "primary_isbn10": "039916443X",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780399164439.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 6,
+      "rank_last_week": 4,
+      "weeks_on_list": 8,
+      "asterisk": 1,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0670024783",
+          "isbn13": "9780670024780"
+        },
+        {
+          "isbn10": "1410465322",
+          "isbn13": "9781410465320"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE INVENTION OF WINGS",
+          "description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.\u00a0",
+          "contributor": "by Sue Monk Kidd",
+          "author": "Sue Monk Kidd",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Viking",
+          "primary_isbn13": "9780670024780",
+          "primary_isbn10": "0670024783",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780698175242.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 7,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0758280378",
+          "isbn13": "9780758280374"
+        },
+        {
+          "isbn10": "0758280394",
+          "isbn13": "9780758280398"
+        },
+        {
+          "isbn10": "1617731781",
+          "isbn13": "9781617731785"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "BLACKBERRY PIE MURDER",
+          "description": "The Minnesota baker Hannah Swensen accidentally hits a stranger with her cookie truck; his shirt is mysteriously stained with blackberry pie. Recipes included.",
+          "contributor": "by Joanne Fluke",
+          "author": "Joanne Fluke",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Kensington",
+          "primary_isbn13": "9780758280374",
+          "primary_isbn10": "0758280378",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780758280398.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 8,
+      "rank_last_week": 6,
+      "weeks_on_list": 5,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1400065755",
+          "isbn13": "9781400065752"
+        },
+        {
+          "isbn10": "0812995759",
+          "isbn13": "9780812995756"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "STILL LIFE WITH BREAD CRUMBS",
+          "description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+          "contributor": "by Anna Quindlen",
+          "author": "Anna Quindlen",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Random House",
+          "primary_isbn13": "9781400065752",
+          "primary_isbn10": "1400065755",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780812995756.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 9,
+      "rank_last_week": 7,
+      "weeks_on_list": 4,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0385351836",
+          "isbn13": "9780385351836"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ONE MORE THING",
+          "description": "Humorous stories from the writer and actor (\u201cThe Office\u201d).",
+          "contributor": "by B. J. Novak",
+          "author": "B J Novak",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Knopf",
+          "primary_isbn13": "9780385351836",
+          "primary_isbn10": "0385351836",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780385351836.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 10,
+      "rank_last_week": 9,
+      "weeks_on_list": 19,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0385537131",
+          "isbn13": "9780385537131"
+        },
+        {
+          "isbn10": "0385537921",
+          "isbn13": "9780385537926"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "SYCAMORE ROW",
+          "description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+          "contributor": "by John Grisham",
+          "author": "John Grisham",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Doubleday",
+          "primary_isbn13": "9780385537131",
+          "primary_isbn10": "0385537131",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780385537926.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 11,
+      "rank_last_week": 8,
+      "weeks_on_list": 3,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0345505751",
+          "isbn13": "9780345505750"
+        },
+        {
+          "isbn10": "0345548418",
+          "isbn13": "9780345548412"
+        },
+        {
+          "isbn10": "0804121133",
+          "isbn13": "9780804121132"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "KILLER",
+          "description": "The psychologist and police consultant Alex Delaware becomes embroiled in a murderous child custody dispute.",
+          "contributor": "by Jonathan Kellerman",
+          "author": "Jonathan Kellerman",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Ballantine",
+          "primary_isbn13": "9780345505750",
+          "primary_isbn10": "0345505751",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780345548412.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 12,
+      "rank_last_week": 11,
+      "weeks_on_list": 3,
+      "asterisk": 1,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0804139024",
+          "isbn13": "9780804139021"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE MARTIAN",
+          "description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+          "contributor": "by Andy Weir",
+          "author": "Andy Weir",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Crown",
+          "primary_isbn13": "9780804139021",
+          "primary_isbn10": "0804139024",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780804139038.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 13,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0307594130",
+          "isbn13": "9780307594136"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "BARK",
+          "description": "Moore\u2019s first story collection in 16 years.",
+          "contributor": "by Lorrie Moore",
+          "author": "Lorrie Moore",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Knopf",
+          "primary_isbn13": "9780307594136",
+          "primary_isbn10": "0307594130",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780307594136.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 14,
+      "rank_last_week": 15,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1451693567",
+          "isbn13": "9781451693560"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE MUSEUM OF EXTRAORDINARY THINGS",
+          "description": "A romance featuring the daughter of the owner of a Coney Island freak show and an immigrant photographer in early-20th-century New York.",
+          "contributor": "by Alice Hoffman",
+          "author": "Alice Hoffman",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Scribner",
+          "primary_isbn13": "9781451693560",
+          "primary_isbn10": "1451693567",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781451693560.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 15,
+      "rank_last_week": 0,
+      "weeks_on_list": 14,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0399159347",
+          "isbn13": "9780399159343"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE HUSBAND'S SECRET",
+          "description": "A woman\u2019s life is upended when she discovers a letter she was not meant to read.",
+          "contributor": "by Liane Moriarty",
+          "author": "Liane Moriarty",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Amy Einhorn\/Putnam",
+          "primary_isbn13": "9780399159343",
+          "primary_isbn10": "0399159347",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781101636237.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 16,
+      "rank_last_week": 12,
+      "weeks_on_list": 78,
+      "asterisk": 1,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "030758836X",
+          "isbn13": "9780307588364"
+        },
+        {
+          "isbn10": "0307588386",
+          "isbn13": "9780307588388"
+        },
+        {
+          "isbn10": "1410450953",
+          "isbn13": "9781410450951"
+        },
+        {
+          "isbn10": "0297859382",
+          "isbn13": "9780297859383"
+        },
+        {
+          "isbn10": "0307588378",
+          "isbn13": "9780307588371"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "GONE GIRL",
+          "description": "A woman disappears on her fifth anniversary; is her husband a killer?",
+          "contributor": "by Gillian Flynn",
+          "author": "Gillian Flynn",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Crown",
+          "primary_isbn13": "9780307588364",
+          "primary_isbn10": "030758836X",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780307588364.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 17,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0062294377",
+          "isbn13": "9780062294371"
+        },
+        {
+          "isbn10": "0062305778",
+          "isbn13": "9780062305770"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE FIRST PHONE CALL FROM HEAVEN",
+          "description": "A small Michigan town is transformed when its residents receive phone calls said to be from heaven.",
+          "contributor": "by Mitch Albom",
+          "author": "Mitch Albom",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Harper",
+          "primary_isbn13": "9780062294371",
+          "primary_isbn10": "0062294377",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780062294395.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 18,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1476745005",
+          "isbn13": "9781476745008"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "MOVING TARGET",
+          "description": "Ali Reynolds discovers a connection between an attack on a jailed computer hacker and a cold-case murder in Britain.",
+          "contributor": "by J.A. Jance",
+          "author": "JA Jance",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Touchstone",
+          "primary_isbn13": "9781476745008",
+          "primary_isbn10": "1476745005",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781476745039.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 19,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0399159738",
+          "isbn13": "9780399159732"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE COUNTERFEIT AGENT",
+          "description": "John Wells is sent on a mission to find the truth about a mysterious Iranian package said to be bound for the United States.",
+          "contributor": "by Alex Berenson",
+          "author": "Alex Berenson",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Putnam",
+          "primary_isbn13": "9780399159732",
+          "primary_isbn10": "0399159738",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780399159732.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2014-03-01",
+      "published_date": "2014-03-16",
+      "list_image": "9780062300157.jpeg",
+      "normal_list_ends_at": 16,
+      "rank": 20,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1476727651",
+          "isbn13": "9781476727653"
+        },
+        {
+          "isbn10": "147672766X",
+          "isbn13": "9781476727660"
+        },
+        {
+          "isbn10": "1410462447",
+          "isbn13": "9781410462442"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "DOCTOR SLEEP",
+          "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another threatened child with a gift.",
+          "contributor": "by Stephen King",
+          "author": "Stephen King",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Scribner",
+          "primary_isbn13": "9781476727653",
+          "primary_isbn10": "1476727651",
+          "book_image": "http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781476727653.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    }
+  ]
