@@ -1,7 +1,8 @@
-
+<li ng-repeat="bestseller in bestsellers">
 
 <span>test</span>
-
+<h1>{{bestsellers.book_details[0].author}}</h1>
+</li>
 <div class="phone-images">
   <img ng-src="{{bestsellers.book_details[0].book_image}}"
        class="phone"
@@ -23,14 +24,14 @@
   <li>
     <span>Publisher</span>
     <dl>
-      <dd ng-repeat="book_details in bestsellers">{{book_details[0].publisher}}</dd>
+      <dd ng-repeat="rank in bestsellers">{{rank}}</dd>
     </dl>
   </li>
   <li>
     <span>Battery</span>
     <dl>
       <dt>Type</dt>
-      <dd>{{phone.battery.type}}</dd>
+      <dd>{{bestseller.list_name}}</dd>
       <dt>Talk Time</dt>
       <dd>{{phone.battery.talkTime}}</dd>
       <dt>Standby time (max)</dt>
@@ -56,9 +57,8 @@
       <dt>Bluetooth</dt>
       <dd>{{phone.connectivity.bluetooth}}</dd>
       <dt>Infrared</dt>
-      <dd>{{phone.connectivity.infrared | checkmark}}</dd>
+    
       <dt>GPS</dt>
-      <dd>{{phone.connectivity.gps | checkmark}}</dd>
     </dl>
   </li>
   <li>
@@ -87,7 +87,6 @@
       <dt>Screen resolution</dt>
       <dd>{{phone.display.screenResolution}}</dd>
       <dt>Touch screen</dt>
-      <dd>{{phone.display.touchScreen | checkmark}}</dd>
     </dl>
   </li>
   <li>
@@ -100,9 +99,7 @@
       <dt>Audio / headphone jack</dt>
       <dd>{{phone.hardware.audioJack}}</dd>
       <dt>FM Radio</dt>
-      <dd>{{phone.hardware.fmRadio | checkmark}}</dd>
       <dt>Accelerometer</dt>
-      <dd>{{phone.hardware.accelerometer | checkmark}}</dd>
     </dl>
   </li>
   <li>
