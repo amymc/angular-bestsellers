@@ -1,35 +1,34 @@
 <div class="container-fluid">
   <div class="row-fluid">
-    <div class="span2">
-      <!--Sidebar content-->
+	<div id="search_header">		
+		<div id="search_container">			
+			Search: <input id="search_box" ng-model="query">
+		</div>	
 
-	  <div id="search_container">			
-      	Search: <input id="search_box" ng-model="query">
-	  </div>	
-	
-	  <div id="sort_container">			
-		  Sort by:
-		  <select ng-model="orderProp">
-			<option value="book_details[0].title[0]">Alphabetical by Title</option>
-			<option value="book_details[0].author.split(' ')[1];">Alphabetical by Author</option>
-			<option value="rank">Rank</option>
-		  </select>
-	   </div>	  
-
-    </div>
+		<div id="sort_container">			
+			  Sort by:
+			  <select ng-model="orderProp">
+				<option value="book_details[0].title[0]">Alphabetical by Title</option>
+				<option value="book_details[0].author.split(' ')[1];">Alphabetical by Author</option>
+				<option value="rank">Rank</option>
+			  </select>
+		 </div>	  
+	  </div>
+    
    
       <!--Body content-->
 
       <ul class="bestsellers">
         <li ng-repeat="bestseller in bestsellers | filter: query | orderBy:orderProp" class="panel panel-info">
             <div class="panel-heading">
-          		<h3 class="panel-title">{{bestseller.rank}}</h3>
+          		<h3 class="panel-title">{{bestseller.rank}}. {{bestseller.book_details[0].title}}</h3>
           	</div>
-          	<a href="#/bestsellers/bestsellers/{{bestseller.list_image}}" class="thumb"><img ng-src="{{bestseller.book_details[0].book_image}}"></a>
+			<img ng-src="{{bestseller.book_details[0].book_image}}">
          	<div class="book_info">
-          		<a href="#/bestsellers/bestsellers/{{bestseller.book_details[0].primary_isbn13}}">{{bestseller.book_details[0].title}}</a>
-          		<br/>
-          		{{bestseller.book_details[0].author}}
+          		{{bestseller.book_details[0].description}}<br/>
+          		<span class="bold">Author:</span> {{bestseller.book_details[0].author}}<br/>
+          		<span class="bold">Publisher:</span> {{bestseller.book_details[0].publisher}}
+          		
       			
 			</div>
         </li>

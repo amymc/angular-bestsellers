@@ -3,23 +3,22 @@ body {
   padding-top: 20px;
 }
 
-/*-----Sort option----------*/
-#sort_container{
-	float:left;
-	margin-left:20px;
+/*-----Search & Sort boxes----------*/
+
+
+#search_container, #sort_container{
+	clear:both;
+	margin: 0 auto;
+	width: 90%;
+	margin-bottom: 10px;
 }
 
-/*-----Search box----------*/
-#search_container{
-	float:right;
-	margin-right:25px;
-}
-
-input#search_box{	
+input#search_box, #sort_container select{	
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-ms-border-radius: 5px;
+	width: 80%;	
 }
 
 /*-------List items------*/
@@ -40,55 +39,71 @@ ul.bestsellers{
 	padding:0px;
 }
 
-li.panel .thumb {
-  float: left;
-  width: 100px;
+li .panel-title{
+	font-size: 14px;
 }
 
-li.panel .thumb img{
-	height: 155px;
-	padding:5px;
+li.panel img {
+  float: left;
+  width: 100px;
+  height: 155px;
+  padding:5px;
 }
 
 li.panel .book_info{
-	padding: 5px;
+	padding:5px 5px 0 5px;
 	float: left;
+	width:65%;
+	text-align:justify
 }
 
-
-
-ul.specs {
-  clear: both;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.bold{
+	font-weight: bold;
 }
-
-ul.specs > li{
-  display: inline-block;
-  width: 200px;
-  vertical-align: top;
-}
-
-ul.specs > li > span{
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
-ul.specs dt {
-  font-weight: bold;
-}
-
-
 
 /******Media Queries********/
-@media screen and (min-width: 500px){ 
+@media screen and (min-width: 720px){ 
 	.bestsellers li {
 		 width: 45%
 	}
+	#search_container{
+		clear:none;
+		float:right;
+		width: 40%;
+	}	
+
+	#sort_container{
+		clear:none;
+		float:left;
+		width: 40%;
+	}
+	
+	input#search_box, #sort_container select{
+		width: 60%;
+	}
+	
+	#search_header{
+		margin-left: 20px;
+	}
+	
+	li.panel .book_info{
+		padding:5px 5px 0 5px;
+		float: left;
+		width:70%;
+		text-align:justify;
+	}
 }
 
-@media screen and (min-width: 800px){ 
+@media screen and (min-width: 440px){ 
+	li.panel .book_info{
+	padding:5px 5px 0 5px;
+	float: left;
+	width:65%;
+	text-align:justify;
+	}
+}
+
+@media screen and (min-width: 1135px){ 
 	.bestsellers li {
 		 width: 32%
 	}
